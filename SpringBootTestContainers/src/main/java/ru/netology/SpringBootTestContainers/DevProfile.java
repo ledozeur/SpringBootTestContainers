@@ -1,4 +1,4 @@
-package ru.netology.SpringBootDemo;
+package ru.netology.SpringBootTestContainers;
 
 public class DevProfile implements SystemProfile {
     @Override

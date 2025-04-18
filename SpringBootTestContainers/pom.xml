@@ -11,7 +11,7 @@
 	<groupId>ru.netology</groupId>
 	<artifactId>SpringBootTestContainers</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>SpringBootDemo</name>
+	<name>SpringBootTestContainers</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>
